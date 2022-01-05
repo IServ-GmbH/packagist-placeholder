@@ -1,0 +1,8 @@
+{
+    "name": "iserv/placeholder",
+    "license": "MIT",
+    "type": "project",
+    "description": "A placeholder package.",
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
